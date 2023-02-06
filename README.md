@@ -8,7 +8,7 @@
 ### A little more about me...  
 
 ```javascript
-const CJ = {
+const lohith_gangadevi = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
