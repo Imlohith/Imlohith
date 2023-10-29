@@ -1,5 +1,5 @@
 <h2> Hi, I'm Lohith Gangadevi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="https://www.slksoftware.com/">SLKS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="https://www.slksoftware.com/">SLK</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: lohithkumargangadevi](https://img.shields.io/badge/-lohith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lohithkumargangadevi/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/lohithkumargangadevi/))
