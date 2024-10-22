@@ -12,7 +12,7 @@ const lohith_gangadevi = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  cloud: ["AWS", "Azure"]
 }
 ```
 
